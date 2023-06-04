@@ -2,6 +2,8 @@
 
 µScore is an application for calculating your score for guild bosses and golems in the Mobile Legends Adventure game produced by Moonton.
 
+µScore is compatible with Android version from Nougat(7) to Tiramisu(13)
+
 ## How does it work?
 The application takes a screenshot when you press the "Abacadabra" button. From this capture, an image search is launched and, via optical recognition (OCR), the numbers are extracted from the capture and then used to calculate your score.
 
