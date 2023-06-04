@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="move_button">Bouton pour déplacer le widget</string>
+    <string name="welcome_text">Coucou! Cliques sur un des boutons ci-dessous pour démarrer!</string>
+    <string name="label_golem_button">Golems</string>
+    <string name="label_boss_button">Boss de guilde</string>
+    <string name="activate_btn">Activer</string>
+    <string name="deactivate_btn">Désactiver</string>
+    <string name="button_boss_description">Activer/Désactiver le widget boss</string>
+    <string name="button_golem_description">Activer/Désactiver le widget golem</string>
+    <string name="reset_btn">Réinitialiser</string>
+    <string name="magic_btn">Abracadabra</string>
+    <string name="boss_base">Base:</string>
+    <string name="boss_score">Score:</string>
+    <string name="img_preview">capture d\'écran du score</string>
+    <string name="notification_title">uScore fonctionne toujours</string>
+    <string name="notification_content">Réouvre l\'app pour fermer le widget.</string>
+    <string name="golem_score">Score:</string>
+</resources>

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name" translatable="false">µScore</string>
+
+    <!-- MAIN -->
+    <string name="welcome_text">Hello! Just click on the buttons below to start to use the app!</string>
+    <string name="label_golem_button">Golems</string>
+    <string name="label_boss_button">Guild\'s Boss</string>
+    <string name="activate_btn">Activate</string>
+    <string name="deactivate_btn">Deactivate</string>
+    <string name="button_boss_description">Activate/Deactivate the boss widget</string>
+    <string name="button_golem_description">Activate/Deactivate the golem widget</string>
+    <string name="reset_btn">Reset</string>
+
+    <!-- COMMON WIDGET -->
+    <string name="move_button">Icon to move widget</string>
+    <string name="magic_btn">Abracadabra</string>
+    <string name="img_preview">score screen capture</string>
+    <string name="notification_title">µScore is still running</string>
+    <string name="notification_content">Re-open the app to close the widget.</string>
+
+    <!-- BOSS WIDGET -->
+    <string name="boss_base">Base:</string>
+    <string name="boss_base_content" translatable="false">%,d</string>
+    <string name="boss_multiplier" translatable="false">x</string>
+    <string name="boss_multiplier_content" translatable="false">%.1f</string>
+    <string name="boss_score">Score:</string>
+    <string name="boss_score_content" translatable="false">%,d</string>
+
+    <!-- GOLEM WIDGET -->
+    <string name="golem_base" translatable="false">%d</string>
+    <string name="golem_base_content" translatable="false">%d</string>
+    <string name="golem_score">Score:</string>
+    <string name="golem_score_content" translatable="false">%d</string>
+
+</resources>
